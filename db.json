@@ -1,0 +1,68 @@
+{
+  "productLists": [
+    {
+      "p_name": "laptop",
+      "category": "electricals",
+      "date": "2022-06-19T18:30:00.000Z",
+      "level": "Fresh",
+      "price": 40000,
+      "feed": "best laptop",
+      "id": 3
+    },
+    {
+      "p_name": "apple",
+      "category": "fruits",
+      "date": "2022-06-26T18:30:00.000Z",
+      "level": "Fresh",
+      "price": 60,
+      "feed": "Good for health",
+      "id": 4
+    },
+    {
+      "p_name": "earphone",
+      "category": "electricals",
+      "date": "2022-06-20T18:30:00.000Z",
+      "level": "Refurbished",
+      "price": 198,
+      "feed": "Good one",
+      "id": 5
+    },
+    {
+      "p_name": "mango",
+      "category": "fruits",
+      "date": "2022-06-21T18:30:00.000Z",
+      "level": "Fresh",
+      "price": 50,
+      "feed": "king's of fruits",
+      "id": 6
+    },
+    {
+      "p_name": "Phone",
+      "category": "electricals",
+      "date": "2022-06-12T18:30:00.000Z",
+      "level": "Fresh",
+      "price": 15000,
+      "feed": "Best phone",
+      "id": 7
+    },
+    {
+      "p_name": "mouse",
+      "category": "electricals",
+      "date": "2022-06-23T18:30:00.000Z",
+      "level": "Second",
+      "price": 200,
+      "feed": "second product",
+      "id": 8
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

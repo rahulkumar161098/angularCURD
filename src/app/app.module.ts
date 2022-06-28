@@ -16,6 +16,12 @@ import {MatDatepickerModule} from '@angular/material/datepicker';
 import { MatNativeDateModule } from '@angular/material/core';
 import { MatRadioModule } from '@angular/material/radio';
 import { ReactiveFormsModule } from '@angular/forms'
+import {MatTableModule} from '@angular/material/table';
+import {MatPaginatorModule} from '@angular/material/paginator';
+
+
+
+import { HttpClientModule } from '@angular/common/http';
 
 
 @NgModule({
@@ -36,7 +42,11 @@ import { ReactiveFormsModule } from '@angular/forms'
     MatDatepickerModule,
     MatNativeDateModule,
     MatRadioModule,
-    ReactiveFormsModule
+    ReactiveFormsModule, 
+    HttpClientModule,
+    MatTableModule,
+    MatPaginatorModule,
+    // MatTableDataSource
   ],
   providers: [],
   bootstrap: [AppComponent]
